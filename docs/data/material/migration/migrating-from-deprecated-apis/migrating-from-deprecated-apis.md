@@ -1545,7 +1545,7 @@ All of the TextField's slot props (`*Props`) props were deprecated in favor of e
 +    htmlInput: CustomHtmlInputProps
 +    select: CustomSelectProps
 +    inputLabel: CustomInputLabelProps
-+    formHelper: CustomFormHelperProps
++    formHelperText: CustomFormHelperProps
 +  }}
  />
 ```
